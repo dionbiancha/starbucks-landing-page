@@ -1,10 +1,10 @@
 <h1 align="center">
     <br>
-    starbucks-landing-page
+    Starbucks Landing Page
 </h1>
 
 <h4 align="center">
-  Online store for buying and selling new or used items 
+  Fictitious landing page made for starbucks
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dionbiancha/starbucks-landing-page.svg">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1640780375/chrome-captureaaaa_de0mga.gif">
+  <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1640781033/github/chrome-captureaaaa_1_oqwwxx.gif">
 </p>
 
 <p align="center">
